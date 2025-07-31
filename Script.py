@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """<b>Hᴇʏ {}, </b>\n\n<i>send me a file or add me as an admin to any channel to instantly generate file links.
+    START_TXT = """<b>Hᴇʏ {}, </b>\n\n<i>𝖲𝖾𝗇𝖽 𝗆𝖾 𝗒𝗈𝗎𝗋 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗂𝗇𝗌𝗍𝖺𝗇𝗍𝗅𝗒 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗌𝗍𝗋𝖾𝖺𝗆 𝗅𝗂𝗇𝗄𝗌 & 𝗁𝗂𝗀𝗁 𝗌𝗉𝖾𝖾𝖽 𝖽𝗂𝗋𝖾𝖼𝗍 𝖽𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝗅𝗂𝗇𝗄𝗌.
 
-Add me to your channel to instantly generate links for any downloadable media. Once received, I will automatically attach appropriate buttons to the post containing the URL.</i>\n\n<blockquote><a href=https://t.me/{}?startchannel&admin=post_messages+edit_messages+delete_messages>➜ 𝖠𝖽𝖽 𝖳𝗈 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a></blockquote>"""
+𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅 𝗍𝗈 𝗂𝗇𝗌𝗍𝖺𝗇𝗍𝗅𝗒 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗌𝗍𝗋𝖾𝖺𝗆 & 𝖽𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝗅𝗂𝗇𝗄𝗌 𝖿𝗈𝗋 𝗒𝗈𝗎 𝗎𝗉𝖼𝗈𝗆𝗂𝗇𝗀 𝖿𝗂𝗅𝖾𝗌 . 𝖨 𝗐𝗂𝗅𝗅 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝖼𝖺𝗅𝗅𝗒 𝖺𝗍𝗍𝖺𝖼𝗁 𝖺𝗉𝗉𝗋𝗈𝗉𝗋𝗂𝖺𝗍𝖾 𝖻𝗎𝗍𝗍𝗈𝗇 𝗍𝗈 𝗍𝗁𝖺 𝗉𝗈𝗌𝗍 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝗂𝗇𝗀 𝗍𝗁𝖾 𝖴𝖱𝖫..</i>\n\n<b><blockquote><a href=https://t.me/{}?startchannel&admin=post_messages+edit_messages+delete_messages>𝖠𝖽𝖽 𝖳𝗈 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 📣</a></blockquote></b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
@@ -86,7 +86,7 @@ Nᴀᴍᴇ - {}</b>"""
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ </b>"""
 
-    AUTH_TXT = """<i><b>Dᴇᴀʀ {}!\n\nPʟᴇᴀsᴇ ᴊᴏɪɴ ᴏᴜʀ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ ! 😊\n\nDᴜᴇ ᴛᴏ sᴇʀᴠᴇʀ ᴏᴠᴇʀʟᴏᴀᴅ, ᴏɴʟʏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ !</b></i>"""
+    AUTH_TXT = """<b> <blockquote> Wᴇʟᴄᴏᴍᴇ {} ✨</blockquote> \n\nꜱɪʀ ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴍᴇ </>\n\n🌐  ᴅᴜᴇ ᴛᴏ ꜱᴇʀᴠᴇʀ ɪꜱꜱᴜᴇ ᴏɴʟʏ ᴄʜᴀɴɴᴇʟ\n🤖  ꜱᴜʙꜱᴄʀɪʙᴇᴇʀꜱ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ...</b>"""
     
     CAPTION_TXT = """
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>
